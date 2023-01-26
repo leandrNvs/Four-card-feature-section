@@ -128,13 +128,19 @@ body {
     margin-bottom: 0;
   }
 
-  .title,
-  .text {
+  .title {
+    font-size: 1.7rem;
+  }
+
+  .title {
     max-width: 350px;
     margin: 0 auto 1rem;
   }
 
   .text {
     margin-bottom: 4rem;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
